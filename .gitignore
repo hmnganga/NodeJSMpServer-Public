@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+node_modules
+# local env files
+.env*.local
+.package-lock.json
+.DS_Store
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore package-lock.json
+package-lock.json
